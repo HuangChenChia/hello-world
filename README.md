@@ -1,7 +1,5 @@
-# hello-world
+# _What_ do I wanna be?
 
-_What_ do I wanna be?
-
-Athlete, Artist, Chef, Gamer, Hacker, Killer, Musician, Traveler....
+Athlete, Artist, Chef, Gamer, Hacker, Killer, Musician, Traveler......
 
 Maybe call me... Dreamer
